@@ -19,14 +19,6 @@ function Card({title,imageUrl,body}) {
                 </div>
             </div>
 
-            <div className='btn'>
-                <button>
-                    <a>
-                        Leia mais...
-                    </a>
-                </button>
-            </div>
-
         </div>
         
 
